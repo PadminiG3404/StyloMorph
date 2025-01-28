@@ -2,7 +2,7 @@
 
 **Transform Faces into Art with Precision and Simplicity**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_TO_YOUR_COLAB_NOTEBOOK)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pXr8tnGr2tJlkkR5O0EukndqJD7_146Q?usp=sharing)
 
 ## **Overview**
 
@@ -32,7 +32,7 @@ StyloMorph uses a simple yet powerful pipeline for face stylization:
 ### **Run the Notebook**
 Start using StyloMorph instantly by opening our pre-configured Colab notebook:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_TO_YOUR_COLAB_NOTEBOOK)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([LINK_TO_YOUR_COLAB_NOTEBOOK](https://colab.research.google.com/drive/1pXr8tnGr2tJlkkR5O0EukndqJD7_146Q?usp=sharing))
 
 ### **Steps to Use**
 1. Open the Colab notebook using the link above.
@@ -77,4 +77,4 @@ StyloMorph is perfect for:
 
 ## **Contact**
 
-For questions or support, please open an issue on GitHub or reach out via email at [youremail@example.com](mailto:youremail@example.com).
+For questions or support, please open an issue on GitHub or reach out via email at [youremail@example.com](pgudavalli2004@gmail.com).
