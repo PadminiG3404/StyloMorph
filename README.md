@@ -1,4 +1,4 @@
-![Stylized Output](https://github.com/user-attachments/assets/fdf5aabc-8ef3-4da3-9145-3458615b3154)**StyloMorph**
+**StyloMorph**
 
 **Transform Faces into Art with Precision and Simplicity**
 
@@ -63,7 +63,7 @@ StyloMorph is perfect for:
 
 | Source Image | Style Reference | Stylized Output |
 |--------------|-----------------|-----------------|
-| ![Source Image](https://github.com/user-attachments/assets/9950f372-23f7-480c-b899-836f7ea75bbb) | ![Style Image](https://github.com/user-attachments/assets/1bc85e39-226d-4c4d-8ec5-a05ed896bf9c) | ![Stylized Output](https://github.com/user-attachments/assets/8f13115e-1c07-4772-8794-03f586975924) |
+| ![Source Image](https://github.com/user-attachments/assets/14842cb9-4762-4398-b718-8208b3719a39) | ![Style Image](https://github.com/user-attachments/assets/58c95cf8-1706-4107-9bad-e497503144d4) | ![Stylized Output](https://github.com/user-attachments/assets/e7e2d3a4-8d37-4e36-b220-794ab0f37377) |
 
 ---
 
