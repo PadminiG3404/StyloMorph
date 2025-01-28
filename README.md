@@ -77,4 +77,4 @@ StyloMorph is perfect for:
 
 ## **Contact**
 
-For questions or support, please open an issue on GitHub or reach out via email at [youremail@example.com](pgudavalli2004@gmail.com).
+For questions or support, please open an issue on GitHub or reach out via email at [pgudavalli2004@gmail.com](mailto:pgudavalli2004@gmail.com).
