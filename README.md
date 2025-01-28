@@ -1,4 +1,4 @@
-**StyloMorph**
+# **StyloMorph**
 
 **Transform Faces into Art with Precision and Simplicity**
 
