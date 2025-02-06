@@ -84,18 +84,18 @@ Start using StyloMorph instantly by opening our pre-configured Colab notebook:
 ---
 
 ## **Applications**
-🎨 Digital Art – Create stylized portraits with unique aesthetics.
-📸 Content Creation – Generate artistic images for social media & branding.
-🎭 Entertainment & Media – Enhance visuals with creative transformations.
-📚 AI Research – Explore generative AI and style transfer techniques.
+- 🎨 Digital Art – Create stylized portraits with unique aesthetics.
+- 📸 Content Creation – Generate artistic images for social media & branding.
+- 🎭 Entertainment & Media – Enhance visuals with creative transformations.
+- 📚 AI Research – Explore generative AI and style transfer techniques.
 
 ---
 
 ## **Future Scope**
-🚀 Real-Time Video Stylization – Extend capabilities to video processing.
-🖌 Full-Body Stylization – Expand beyond facial transformations.
-🎨 AR/VR Integration – Enable immersive artistic experiences.
-🛠 Interactive AI Tools – Develop user-friendly creative applications.
+- 🚀 Real-Time Video Stylization – Extend capabilities to video processing.
+- 🖌 Full-Body Stylization – Expand beyond facial transformations.
+- 🎨 AR/VR Integration – Enable immersive artistic experiences.
+- 🛠 Interactive AI Tools – Develop user-friendly creative applications.
 
 ---
 
