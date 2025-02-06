@@ -9,13 +9,13 @@
 **StyloMorph** is a streamlined face stylization system designed to transform facial features into artistic styles while preserving unique characteristics. Powered by advanced models like **StyleGAN2** and **e4e**, StyloMorph ensures high-quality results with minimal computational requirements, making artistic transformations accessible to everyone.
 
 ### **Key Features**
-✅ **One-Shot Stylization**: Transforms faces with just a single reference style image.  
-✅ **High-Quality Outputs**: Maintains facial details while applying stylized transformations.  
-✅ **Efficient Processing**: Uses **e4e encoding** for optimized GAN inversion, reducing computation time.  
-✅ **Real-Time Stylization**: Works efficiently even on resource-limited hardware.  
-✅ **Customizable Style Intensity**: Fine-tune outputs with adjustable parameters.  
-✅ **Supports Multi-Shot Stylization**: Extends capabilities to multiple reference styles. 
-✅ **User-Friendly**: Seamless integration with Google Colab for easy setup and usage.
+- **One-Shot Stylization**: Transforms faces with just a single reference style image.
+- **High-Quality Outputs**: Maintains facial details while applying stylized transformations.
+- **Efficient Processing**: Uses **e4e encoding** for optimized GAN inversion, reducing computation time.
+- **Real-Time Stylization**: Works efficiently even on resource-limited hardware.
+- **Customizable Style Intensity**: Fine-tune outputs with adjustable parameters.
+- **Supports Multi-Shot Stylization**: Extends capabilities to multiple reference styles.
+- **User-Friendly**: Seamless integration with Google Colab for easy setup and usage.
 
 ---
 
