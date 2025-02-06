@@ -27,6 +27,12 @@ StyloMorph uses a simple yet powerful pipeline for face stylization:
 
 ---
 
+## **Architecture of StloMorph**
+
+![image](https://github.com/user-attachments/assets/fbcac5d4-765a-4c0c-8723-84ec75a754ed)
+
+---
+
 ## **Getting Started**
 
 ### **Run the Notebook**
