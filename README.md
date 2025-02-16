@@ -7,7 +7,7 @@
 ## **Overview**
 
 <p align="center">
-    <img width="700" src="https://github.com/user-attachments/assets/9e5b3b58-b170-4200-bd98-f3d237a809ea">
+    <img width="400" src="https://github.com/user-attachments/assets/9e5b3b58-b170-4200-bd98-f3d237a809ea">
 </p>
 
 **StyloMorph** is a streamlined face stylization system designed to transform facial features into artistic styles while preserving unique characteristics. Powered by advanced models like **StyleGAN2** and **e4e**, StyloMorph ensures high-quality results with minimal computational requirements, making artistic transformations accessible to everyone.
@@ -35,7 +35,7 @@ This research has been accepted at the **3rd DELCON, 2024 IEEE International Con
 
 ### **Architecture of StloMorph**
 <p align="center">
-    <img width="700" src="https://github.com/user-attachments/assets/4e255708-005a-48f1-b9f2-ecc2bb87f6cd">
+    <img width="600" src="https://github.com/user-attachments/assets/4e255708-005a-48f1-b9f2-ecc2bb87f6cd">
 </p>
 
 StyloMorph uses a simple yet powerful pipeline for face stylization:
@@ -43,13 +43,13 @@ StyloMorph uses a simple yet powerful pipeline for face stylization:
 1. **Facial Feature Extraction**: Uses **DLib Shape Predictor** (68 facial landmarks) to detect key facial features.
 
 <p align="center">
-    <img width="500" src="https://github.com/user-attachments/assets/1ab86021-420d-4caf-89ad-1a9256cd8201">
+    <img width="400" src="https://github.com/user-attachments/assets/1ab86021-420d-4caf-89ad-1a9256cd8201">
 </p>
 
 2. **Latent Space Encoding**: Maps facial features into **StyleGAN2’s latent space** using the **e4e encoder**.
 
 <p align="center">
-    <img width="500" src="https://github.com/user-attachments/assets/6918adc3-23c2-444f-898f-54d6ceab1ae0">
+    <img width="400" src="https://github.com/user-attachments/assets/6918adc3-23c2-444f-898f-54d6ceab1ae0">
 </p>
 
 3. **Style Transfer**: Applies artistic transformations while preserving facial identity.
@@ -129,12 +129,18 @@ Start using StyloMorph instantly by opening our pre-configured Colab notebook:
 ## Citation
 If you use this work, please cite:
 
-**Authors:** Uday Kiran G, Srilakshmi V, Padmini G, Lavanya B, Tejaswini A, Vijay G, Ranveer D, Priyanka B, Bhagya Laxmi H  
-**Title:** One-Shot Stylization for Transformative Facial Art using StyloMorph
-**Conference Proceedings:** 2024 3rd Edition of IEEE Delhi Section Flagship Conference (DELCON)  
-**Pages:** 1-8
-**Year:** 2024
-**DOI:** [10.1109/DELCON64804.2024.10866661](https://doi.org/10.1109/DELCON64804.2024.10866661)  
+```
+@INPROCEEDINGS{10866661,
+  author={G., Uday Kiran and V., Srilakshmi and G., Padmini and B., Lavanya and A., Tejaswini and G., Vijay and D., Ranveer and B., Priyanka and H., Bhagya Laxmi},
+  booktitle={2024 3rd Edition of IEEE Delhi Section Flagship Conference (DELCON)}, 
+  title={One-Shot Stylization for Transformative Facial Art using StyloMorph}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Training;Shape;Computational modeling;Lighting;Streaming media;Media;Robustness;Real-time systems;Faces;Facial features;Face Stylization;pretrained models;Generative Adversarial Networks (GANs);Deep Learning},
+  doi={10.1109/DELCON64804.2024.10866661}}
+```
 
 ---
 
