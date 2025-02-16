@@ -2,9 +2,13 @@
 
 **Transform Faces into Art with Precision and Simplicity**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pXr8tnGr2tJlkkR5O0EukndqJD7_146Q?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pXr8tnGr2tJlkkR5O0EukndqJD7_146Q?usp=sharing) [![Research Paper](https://img.shields.io/badge/Publication-Research_Paper-blue)](https://ieeexplore.ieee.org/document/10866661)
 
 ## **Overview**
+
+<p align="center">
+    <img width="700" src="https://github.com/user-attachments/assets/9e5b3b58-b170-4200-bd98-f3d237a809ea">
+</p>
 
 **StyloMorph** is a streamlined face stylization system designed to transform facial features into artistic styles while preserving unique characteristics. Powered by advanced models like **StyleGAN2** and **e4e**, StyloMorph ensures high-quality results with minimal computational requirements, making artistic transformations accessible to everyone.
 
@@ -16,33 +20,49 @@
 - **Customizable Style Intensity**: Fine-tune outputs with adjustable parameters.
 - **Supports Multi-Shot Stylization**: Extends capabilities to multiple reference styles.
 - **User-Friendly**: Seamless integration with Google Colab for easy setup and usage.
-
+  
 ---
 
+## **Published Work**
+This research has been accepted at the **3rd DELCON, 2024 IEEE International Conference on Advancing Technology for Sustainable Development** and published in **IEEE**.<br>
+[📑Research Paper](https://ieeexplore.ieee.org/document/10866661))<br>
+**Title:** One-Shot Stylization for Transformative Facial Art using StyloMorph
+**Conference:** 2024 3rd Edition of IEEE Delhi Section Flagship Conference (DELCON)
+**Publisher:** IEEE
+
+---
 ## **How It Works**
 
 ### **Architecture of StloMorph**
-
-![image](https://github.com/user-attachments/assets/4e255708-005a-48f1-b9f2-ecc2bb87f6cd)
+<p align="center">
+    <img width="700" src="https://github.com/user-attachments/assets/4e255708-005a-48f1-b9f2-ecc2bb87f6cd">
+</p>
 
 StyloMorph uses a simple yet powerful pipeline for face stylization:
 
 1. **Facial Feature Extraction**: Uses **DLib Shape Predictor** (68 facial landmarks) to detect key facial features.
 
-![image](https://github.com/user-attachments/assets/1ab86021-420d-4caf-89ad-1a9256cd8201) 
+<p align="center">
+    <img width="500" src="https://github.com/user-attachments/assets/1ab86021-420d-4caf-89ad-1a9256cd8201">
+</p>
 
 2. **Latent Space Encoding**: Maps facial features into **StyleGAN2’s latent space** using the **e4e encoder**.
 
-![image](https://github.com/user-attachments/assets/6918adc3-23c2-444f-898f-54d6ceab1ae0)
+<p align="center">
+    <img width="500" src="https://github.com/user-attachments/assets/6918adc3-23c2-444f-898f-54d6ceab1ae0">
+</p>
 
 3. **Style Transfer**: Applies artistic transformations while preserving facial identity.
 
-![image](https://github.com/user-attachments/assets/6f30748b-625f-4378-8b9a-05435283f608)
+<p align="center">
+    <img width="500" src="https://github.com/user-attachments/assets/6f30748b-625f-4378-8b9a-05435283f608">
+</p>
 
  4. **Output Generation**: Generates realistic, high-resolution stylized images.
 
-![image](https://github.com/user-attachments/assets/c616e77e-6504-422c-8155-8e2c8f8bbe4b)
-
+<p align="center">
+    <img width="500" src="https://github.com/user-attachments/assets/c616e77e-6504-422c-8155-8e2c8f8bbe4b">
+</p>
 
 🔹 **Core Pre-trained Models Used**:
 - **StyleGAN2-FFHQ Config-F**: Optimized for realistic face generation.
@@ -100,13 +120,26 @@ Start using StyloMorph instantly by opening our pre-configured Colab notebook:
 ---
 
 ## **Acknowledgments**
-
 - **StyleGAN2** and **e4e models** for their foundational contributions.
 - **DLib** for robust facial landmark detection.
 - The **FFHQ dataset** for providing diverse training data.
 
 ---
 
-## **Contact**
+## Citation
+If you use this work, please cite:
 
-For questions or support, please open an issue on GitHub or reach out via email at [pgudavalli2004@gmail.com](mailto:pgudavalli2004@gmail.com).
+**Authors:** Uday Kiran G, Srilakshmi V, Padmini G, Lavanya B, Tejaswini A, Vijay G, Ranveer D, Priyanka B, Bhagya Laxmi H  
+**Title:** One-Shot Stylization for Transformative Facial Art using StyloMorph
+**Conference Proceedings:** 2024 3rd Edition of IEEE Delhi Section Flagship Conference (DELCON)  
+**Pages:** 1-8
+**Year:** 2024
+**DOI:** [10.1109/DELCON64804.2024.10866661](https://doi.org/10.1109/DELCON64804.2024.10866661)  
+
+---
+
+## Contact
+For questions or collaborations, feel free to reach out:
+- Name: Padmini Gudavalli
+- [Gmail](pgudavalli2004@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/padmini-gudavalli-226245259)
